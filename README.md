@@ -1,0 +1,1 @@
+skeepOS version 2 is an upgrade from version 1 made by Anand Kumar. This version has a login screen and a hardcoded password 4. WARNING: the password is hardcoded, if you dont know the passcode that means this program is useless to you. the passcode, i repeat, is 4.
